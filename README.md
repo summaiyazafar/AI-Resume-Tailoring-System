@@ -222,7 +222,7 @@ The app will open automatically at **`http://localhost:8501`**
 
 ---
 
-## ☁️ Deploy on Streamlit Cloud (Free)
+## ☁️ Deploy on Streamlit Cloud (Free)   Complete App:https://ai-resume-tailoring-system-brw4pxqbja3puc9rnnstky.streamlit.app/
 
 Deploy this project publicly in **under 5 minutes** — completely free:
 
